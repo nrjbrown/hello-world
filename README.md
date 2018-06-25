@@ -2,4 +2,4 @@
 
 learning GitHub
 
-I am new to coding but welcome the challenge to be learn and practice on a daily basis. 
+I am new to coding but welcome the challenge to learn and practice on a daily basis. 
